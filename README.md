@@ -3,6 +3,9 @@
 Alternative car firmware adding music playback, color lights, car speed setting, and a follow mode.
 This car you can also easily build yourself using common Arduino Uno components. Just connect them to the correponding pins (see #defines in the .ino code). Program your Arduino Uno using Arduino IDE.
 
+![](https://github.com/AlexeyMal/Elegoo-Smart-Robot-Car-Kit-V3.0-Plus/blob/main/IMG_20210112_232118.jpg)
+![](https://github.com/AlexeyMal/Elegoo-Smart-Robot-Car-Kit-V3.0-Plus/blob/main/IMG_20210112_231700.jpg)
+
 You can download the complete documentation and instructions from
 https://www.elegoo.com/download/
 if you need more details.
